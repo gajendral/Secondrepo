@@ -6,7 +6,7 @@ num = 29
 m, ,fv
 # To take input from the user
 #num = int(input("Enter a number: "))
-
+,;l,;rf;er
 # define a flag variable
 flag = False
 
@@ -20,7 +20,7 @@ elif num > 1:
             flag = True
             # break out of loop
             break
-
+,s;ld,asl;d,a;lsds;dadfd
     # check if flag is True
     if flag:
         print(num, "is not a prime number")
